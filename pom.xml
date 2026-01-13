@@ -8,8 +8,11 @@
   <version>1.0-SNAPSHOT</version>
 
   <properties>
-    <maven.compiler.source>17</maven.compiler.source>
-    <maven.compiler.target>17</maven.compiler.target>
+    <sonar.projectKey>Riddhi0809_devops</sonar.projectKey>
+    <sonar.organization>riddhi0809</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+
 
     <!-- SonarCloud org -->
     <sonar.organization>riddhi0809</sonar.organization>
@@ -25,6 +28,7 @@
     </plugins>
   </build>
 </project>
+
 
 
 
