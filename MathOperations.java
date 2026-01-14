@@ -2,7 +2,7 @@ public class MathOperations {
 
     public static void main(String[] args) {
         
-        int num1 = ;
+        int num1 = 20;
         int num2 = 10;
         
         
@@ -20,3 +20,4 @@ public class MathOperations {
     }
 
 }
+
